@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TylerSaikaleyTheriault
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning Java, HTMl, CSS.
+- 🌱 I’m currently learning Java, HTML, CSS.
 - 📫 How to reach me Tyler.saikaley@gmail.com or Discord : Tylxr#5170
 
 <!---
